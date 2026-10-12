@@ -1,0 +1,8 @@
+{
+  "name": "nokos-store-vercel",
+  "version": "1.1.0",
+  "private": true,
+  "description": "NOKOS Store - Vercel serverless integration with Nokos Pusat REST API",
+  "engines": { "node": ">=18" },
+  "dependencies": { "dotenv": "^16.4.7", "express": "^4.21.2" }
+}
