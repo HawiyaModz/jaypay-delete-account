@@ -1,0 +1,13 @@
+{
+  "name": "nokos-store-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOKOS Store - Vercel deployment with Express serverless API",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
